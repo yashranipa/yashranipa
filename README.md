@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer at PayPal<br>🌱 I’m currently learning Next.js<br>📫 How to reach me: yashranipa@duck.com<br>🔭 I enjoy learning and mastering outdoor sports and challenge myself to adapt under unfamilier conditions.
+👨‍💻 Software Engineer at PayPal<br>🌱 I’m currently learning CCAF (Claude Certified Architect - Foundations)<br>📫 How to reach me: yashranipa@duck.com<br>🔭 I enjoy learning and mastering outdoor sports and challenge myself to adapt under unfamiliar conditions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ranipa/)
